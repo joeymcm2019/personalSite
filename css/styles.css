@@ -170,10 +170,14 @@ margin-top: 25px;
     display: block;
 }
 
+.projectHeader {
+    padding-left: 22px;
+    text-align: left;
+}
 
 .skillP {
-    text-align: center;
-    width: 90%;
+    text-align: left;
+    width: 70%;
     padding-bottom: 10px;
 }
 
