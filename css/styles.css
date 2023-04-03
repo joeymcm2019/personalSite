@@ -152,6 +152,10 @@ margin-top: 25px;
     margin-top: 25px;
 }
 
+.businessApp {
+    margin-top: 25px;
+}
+
 
 .centerContentInDiv {
     display: flex;
@@ -184,6 +188,12 @@ margin-top: 25px;
 .soccerIMG {
     position: relative;
     width: 10%;
+}
+
+.businessImg {
+    width: 250px;
+    margin-right: 50px;
+    margin-top: 25px;
 }
 
 .table1 {
