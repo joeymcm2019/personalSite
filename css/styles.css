@@ -1,10 +1,11 @@
 a {
-    color:rgb(29, 71, 126);
+    color: rgb(29, 71, 126);
 }
+
 body {
     background-color: #f2f5ff;
     margin: 0px;
-    font-family:  verdana, sans-serif;
+    font-family: verdana, sans-serif;
 }
 
 h1 {
@@ -28,25 +29,26 @@ hr {
 }
 
 h2 {
-    color:rgb(29, 71, 126);
+    color: rgb(29, 71, 126);
     font-weight: normal;
     margin-top: 5px;
 }
 
 h3 {
     margin-top: 35px;
-    color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
     font-weight: normal;
 }
 
 #strong1 {
     font-size: 20px;
-    color:rgb(29, 71, 126)
+    color: rgb(29, 71, 126)
 }
 
 #hello {
     margin-bottom: 25px;
 }
+
 #mKern {
     position: relative;
     right: 45px;
@@ -63,7 +65,7 @@ p {
     margin-bottom: 30px;
 }
 
-#lastP{
+#lastP {
     margin-bottom: 20px;
 }
 
@@ -75,7 +77,7 @@ strong {
 
 .bottom {
     text-align: center;
-    background-color:rgb(129, 171, 226);
+    background-color: rgb(129, 171, 226);
     padding-top: 10px;
     padding-bottom: 10px;
 
@@ -130,11 +132,11 @@ strong {
 
 
 
-.sudokuImg{
-height: 250px;
-width: 250px;
-margin-right: 50px;
-margin-top: 25px;
+.sudokuImg {
+    height: 250px;
+    width: 250px;
+    margin-right: 50px;
+    margin-top: 25px;
 }
 
 .sudokuApp {
@@ -221,7 +223,7 @@ margin-top: 25px;
 
 .skills {
     text-align: center;
-    margin: 100px auto 50px auto;
+    margin: 100px 0px 50px 0px;
 }
 
 ul {
@@ -230,8 +232,8 @@ ul {
 }
 
 .alignWithAbove {
-   display: flex;
-   justify-content: left;
+    display: flex;
+    justify-content: left;
 }
 
 
@@ -260,9 +262,9 @@ ul {
     font-size: 20px;
     padding: 10px 30px 10px 29px;
     text-decoration: none;
-  }
-  
-  .btn:hover {
+}
+
+.btn:hover {
     background: #4f98f7;
     text-decoration: none;
-  }
+}
