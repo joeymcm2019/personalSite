@@ -221,6 +221,17 @@ strong {
     margin: 100px auto;
 }
 
+.experience {
+    text-align: center;
+    margin: 100px auto;
+}
+
+.phoneImg {
+    height: 650px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
 .skills {
     text-align: center;
     margin: 100px 0px 50px 0px;
